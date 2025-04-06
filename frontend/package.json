@@ -12,9 +12,11 @@
   "dependencies": {
     "framer-motion": "^12.6.3",
     "lucide-react": "^0.487.0",
+    "pdfjs-dist": "^3.4.120",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-hot-toast": "^2.5.2",
+    "react-pdf": "^9.2.1",
     "react-router-dom": "^7.4.1"
   },
   "devDependencies": {
